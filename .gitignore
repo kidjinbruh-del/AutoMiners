@@ -1,0 +1,15 @@
+# Mindustry saves/runtime artifacts
+*.bin
+*.bak
+*.corrupt
+*.zip
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / tooling
+.idea/
+.vscode/
+*.swp

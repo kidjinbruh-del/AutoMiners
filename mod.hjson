@@ -1,0 +1,6 @@
+name: auto-director
+author: ebann
+displayName: AutoMiners
+version: "0.4.0"
+minGameVersion: "158"
+description: "AutoMiners: spawns helper poly drones that continuously mine your deficit resources. Client-side JS mod for Mindustry v8."
