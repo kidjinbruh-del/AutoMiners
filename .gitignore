@@ -13,3 +13,6 @@ desktop.ini
 .idea/
 .vscode/
 *.swp
+
+# itch.io release artifacts (build locally, not committed)
+release/

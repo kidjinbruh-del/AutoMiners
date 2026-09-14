@@ -9,6 +9,11 @@ Each of your cores keeps up to `botsPerCore` poly drones. The drones are control
 ![Mindustry](https://img.shields.io/badge/Mindustry-v8%20(158%2B)-04684e)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+**Available at:**
+
+- **itch.io**: <https://kidjinbruh-del.itch.io/autominers>
+- **GitHub**: <https://github.com/kidjinbruh-del/AutoMiners> (this repo, releases)
+
 ---
 
 ## Why AutoMiners?
