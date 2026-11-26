@@ -7,7 +7,6 @@ Lightweight client-side JS mod for **Mindustry v8** (build 158+). No server, no 
 Each of your cores keeps up to `botsPerCore` poly drones. The drones are controlled by `MinerAI` and always mine the resource your core has the **least** of (copper → lead → sand → coal → titanium → thorium → scrap, only ores actually present on the map). When the shortage shifts, they automatically switch to the new deficit resource.
 
 ![Mindustry](https://img.shields.io/badge/Mindustry-v8%20(158%2B)-04684e)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 **Available at:**
 
@@ -87,7 +86,7 @@ auto-director/
 ├── mod.hjson      # manifest: id, version, minGameVersion, displayName
 ├── scripts/
 │   └── main.js    # single-file logic (spawn + mining director)
-├── LICENSE        # MIT
+├── LICENSE        # All rights reserved
 └── README.md
 ```
 
@@ -111,6 +110,6 @@ Syntax is validated with `node --check scripts/main.js` before release.
 
 ## License
 
-MIT © ebann — see [LICENSE](LICENSE).
+All rights reserved. See [LICENSE](LICENSE).
 
 Contributions, forks, and modpacks that include AutoMiners are welcome; please keep attribution.
